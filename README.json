@@ -33,7 +33,7 @@
             "last_commit": "2023-06-05T07:18:21Z",
             "owner": "ruslo",
             "repo": "CGold",
-            "stars": 535
+            "stars": 534
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2026-02-05T16:35:55Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9216
+            "stars": 9215
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-01-20T16:10:35Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12669
+            "stars": 12672
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-02-07T04:37:59Z",
             "owner": "Microsoft",
             "repo": "vcpkg",
-            "stars": 26584
+            "stars": 26588
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-01-18T14:01:51Z",
             "owner": "TheLartians",
             "repo": "CPM",
-            "stars": 3886
+            "stars": 3888
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2021-06-08T04:09:23Z",
             "owner": "chadmv",
             "repo": "cgcmake",
-            "stars": 132
+            "stars": 131
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2018-02-16T04:32:27Z",
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1231
+            "stars": 1230
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1229
+            "stars": 1230
           }
         },
         {
@@ -1616,10 +1616,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:16:49.467Z",
+    "last_updated": "2026-02-08T04:37:19.791Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome CMake with stars"
   }
 }
