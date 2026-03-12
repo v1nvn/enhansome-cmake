@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-10T09:06:00Z",
+            "last_commit": "2026-03-11T13:31:56Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9263
+            "stars": 9265
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-03-11T00:32:50Z",
+            "last_commit": "2026-03-11T22:53:57Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 26724
+            "stars": 26731
           }
         },
         {
@@ -1124,7 +1124,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13074
+            "stars": 13073
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2025-03-12T18:31:16Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5317
+            "stars": 5316
           }
         },
         {
@@ -1616,7 +1616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:15:52.847Z",
+    "last_updated": "2026-03-12T04:20:16.557Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
