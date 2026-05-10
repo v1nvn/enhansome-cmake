@@ -292,7 +292,7 @@
             "last_commit": "2026-05-07T11:45:09Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9344
+            "stars": 9346
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-05-08T20:46:22Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27006
+            "stars": 27008
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2025-03-12T18:31:16Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5347
+            "stars": 5351
           }
         },
         {
@@ -1369,7 +1369,7 @@
             "last_commit": "2026-05-04T19:59:12Z",
             "owner": "scikit-build",
             "repo": "scikit-build",
-            "stars": 532
+            "stars": 533
           }
         },
         {
@@ -1616,7 +1616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:27:48.206Z",
+    "last_updated": "2026-05-10T05:43:16.018Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
