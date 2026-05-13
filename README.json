@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-10T06:17:53Z",
+            "last_commit": "2026-05-12T13:33:15Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9347
+            "stars": 9348
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-11T13:56:37Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12935
+            "stars": 12938
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-11T21:47:12Z",
+            "last_commit": "2026-05-13T03:34:43Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27019
+            "stars": 27028
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-05-05T19:55:44Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 3995
+            "stars": 3996
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2025-02-10T19:46:56Z",
             "owner": "rpavlik",
             "repo": "cmake-modules",
-            "stars": 1068
+            "stars": 1069
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-03-25T14:17:20Z",
             "owner": "bilke",
             "repo": "cmake-modules",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -415,7 +415,7 @@
             "last_commit": "2023-12-05T09:07:13Z",
             "owner": "Eyescale",
             "repo": "CMake",
-            "stars": 154
+            "stars": 153
           }
         },
         {
@@ -464,7 +464,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-11T12:43:42Z",
+            "last_commit": "2026-05-12T19:27:58Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 151
@@ -1124,7 +1124,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13074
+            "stars": 13072
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2025-03-12T18:31:16Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5354
+            "stars": 5355
           }
         },
         {
@@ -1587,7 +1587,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-11T17:02:41Z",
+            "last_commit": "2026-05-12T16:25:26Z",
             "owner": "pt9912",
             "repo": "cmake-xray",
             "stars": 1
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:45:03.478Z",
+    "last_updated": "2026-05-13T05:54:59.240Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
