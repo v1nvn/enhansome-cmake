@@ -318,7 +318,7 @@
             "last_commit": "2026-05-13T20:12:35Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12941
+            "stars": 12942
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-15T03:28:10Z",
+            "last_commit": "2026-05-16T04:29:47Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27040
+            "stars": 27042
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-05-05T19:55:44Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 3996
+            "stars": 3997
           }
         },
         {
@@ -902,10 +902,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-04-14T13:33:21Z",
+            "last_commit": "2026-05-15T20:25:38Z",
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3581
+            "stars": 3580
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2025-03-12T18:31:16Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5354
+            "stars": 5355
           }
         },
         {
@@ -1626,10 +1626,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-11T08:04:46Z",
+            "last_commit": "2026-05-15T11:00:11Z",
             "owner": "HEP-SoC",
             "repo": "SoCMake",
-            "stars": 39
+            "stars": 40
           }
         }
       ],
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T06:00:41.328Z",
+    "last_updated": "2026-05-16T05:32:46.991Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
