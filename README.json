@@ -292,7 +292,7 @@
             "last_commit": "2026-05-14T11:47:25Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9351
+            "stars": 9352
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-13T20:12:35Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12942
+            "stars": 12944
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-16T04:29:47Z",
+            "last_commit": "2026-05-16T11:27:06Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27042
+            "stars": 27046
           }
         },
         {
@@ -389,7 +389,7 @@
             "last_commit": "2025-02-10T19:46:56Z",
             "owner": "rpavlik",
             "repo": "cmake-modules",
-            "stars": 1068
+            "stars": 1069
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1242
+            "stars": 1243
           }
         },
         {
@@ -1509,7 +1509,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-14T21:47:38Z",
+            "last_commit": "2026-05-16T16:38:43Z",
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 14
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:32:46.991Z",
+    "last_updated": "2026-05-17T05:54:44.046Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
