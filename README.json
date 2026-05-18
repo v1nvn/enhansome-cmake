@@ -292,7 +292,7 @@
             "last_commit": "2026-05-14T11:47:25Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9352
+            "stars": 9354
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-13T20:12:35Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12944
+            "stars": 12950
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-05-16T11:27:06Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27046
+            "stars": 27051
           }
         },
         {
@@ -1124,7 +1124,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13069
+            "stars": 13070
           }
         },
         {
@@ -1509,7 +1509,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-05-16T16:38:43Z",
+            "last_commit": "2026-05-17T15:48:47Z",
             "owner": "cmakefmt",
             "repo": "cmakefmt",
             "stars": 14
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:54:44.046Z",
+    "last_updated": "2026-05-18T06:21:24.221Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
