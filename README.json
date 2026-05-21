@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T21:26:45Z",
+            "last_commit": "2026-05-21T05:48:46Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9360
+            "stars": 9362
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-13T20:12:35Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12951
+            "stars": 12949
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-19T22:07:02Z",
+            "last_commit": "2026-05-20T23:17:59Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27061
+            "stars": 27065
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2019-12-23T15:00:32Z",
             "owner": "sakra",
             "repo": "cotire",
-            "stars": 1301
+            "stars": 1302
           }
         },
         {
@@ -803,7 +803,7 @@
             "last_commit": "2025-11-04T04:20:15Z",
             "owner": "arsenm",
             "repo": "sanitizers-cmake",
-            "stars": 407
+            "stars": 408
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2026-05-15T20:25:38Z",
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3582
+            "stars": 3581
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2018-02-16T04:32:27Z",
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1229
+            "stars": 1227
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2025-03-12T18:31:16Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5358
+            "stars": 5361
           }
         },
         {
@@ -1369,7 +1369,7 @@
             "last_commit": "2026-05-18T22:58:51Z",
             "owner": "scikit-build",
             "repo": "scikit-build",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -1626,7 +1626,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-18T08:42:13Z",
+            "last_commit": "2026-05-20T07:55:21Z",
             "owner": "HEP-SoC",
             "repo": "SoCMake",
             "stars": 40
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:15:50.304Z",
+    "last_updated": "2026-05-21T06:17:11.828Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
