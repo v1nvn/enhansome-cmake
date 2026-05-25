@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T12:03:45Z",
+            "last_commit": "2026-05-24T19:29:39Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9366
+            "stars": 9367
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-21T15:09:24Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12954
+            "stars": 12953
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-05-23T16:08:04Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27076
+            "stars": 27079
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-05-05T19:55:44Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4002
+            "stars": 4004
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2019-12-23T15:00:32Z",
             "owner": "sakra",
             "repo": "cotire",
-            "stars": 1302
+            "stars": 1301
           }
         },
         {
@@ -905,7 +905,7 @@
             "last_commit": "2026-05-15T20:25:38Z",
             "owner": "dockcross",
             "repo": "dockcross",
-            "stars": 3583
+            "stars": 3585
           }
         },
         {
@@ -1124,7 +1124,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13065
+            "stars": 13063
           }
         },
         {
@@ -1137,7 +1137,7 @@
             "last_commit": "2025-08-05T21:33:47Z",
             "owner": "euler0",
             "repo": "mini-cmake-qt",
-            "stars": 220
+            "stars": 221
           }
         },
         {
@@ -1176,7 +1176,7 @@
             "last_commit": "2021-01-13T16:07:10Z",
             "owner": "robotology",
             "repo": "how-to-export-cpp-library",
-            "stars": 374
+            "stars": 375
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2025-03-12T18:31:16Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5361
+            "stars": 5360
           }
         },
         {
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T06:08:42.776Z",
+    "last_updated": "2026-05-25T06:42:39.674Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
