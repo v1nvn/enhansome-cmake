@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-27T22:19:31Z",
+            "last_commit": "2026-05-28T16:50:50Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9371
+            "stars": 9372
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-21T15:09:24Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12964
+            "stars": 12968
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-28T00:19:43Z",
+            "last_commit": "2026-05-28T19:30:30Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27084
+            "stars": 27089
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-05-05T19:55:44Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4008
+            "stars": 4009
           }
         },
         {
@@ -464,7 +464,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-24T00:20:57Z",
+            "last_commit": "2026-05-28T21:57:28Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 151
@@ -1124,7 +1124,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13061
+            "stars": 13060
           }
         },
         {
@@ -1626,7 +1626,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-05-26T11:12:46Z",
+            "last_commit": "2026-05-28T07:38:35Z",
             "owner": "HEP-SoC",
             "repo": "SoCMake",
             "stars": 40
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:19:24.301Z",
+    "last_updated": "2026-05-29T06:21:31.399Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
