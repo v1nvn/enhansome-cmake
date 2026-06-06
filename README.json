@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-04T16:44:39Z",
+            "last_commit": "2026-06-05T10:41:39Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9388
+            "stars": 9393
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-21T15:09:24Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12989
+            "stars": 12988
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-06-05T00:45:32Z",
+            "last_commit": "2026-06-06T00:02:19Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27119
+            "stars": 27122
           }
         },
         {
@@ -464,7 +464,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-06-03T20:07:36Z",
+            "last_commit": "2026-06-05T16:11:56Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 152
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:39:12.706Z",
+    "last_updated": "2026-06-06T05:59:47.030Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
