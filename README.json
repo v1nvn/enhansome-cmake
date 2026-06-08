@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T10:41:39Z",
+            "last_commit": "2026-06-08T05:36:53Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9393
+            "stars": 9395
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-01-26T18:34:50Z",
             "owner": "floooh",
             "repo": "fips",
-            "stars": 508
+            "stars": 507
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-21T15:09:24Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 12988
+            "stars": 12990
           }
         },
         {
@@ -331,7 +331,7 @@
             "last_commit": "2026-06-06T17:10:05Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27124
+            "stars": 27131
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-06-02T10:08:27Z",
             "owner": "cpm-cmake",
             "repo": "CPM.cmake",
-            "stars": 4016
+            "stars": 4019
           }
         },
         {
@@ -464,10 +464,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-06-05T16:11:56Z",
+            "last_commit": "2026-06-07T14:06:00Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
-            "stars": 152
+            "stars": 153
           }
         },
         {
@@ -1098,7 +1098,7 @@
             "last_commit": "2019-01-17T15:23:32Z",
             "owner": "krux02",
             "repo": "minimal_cmake_example",
-            "stars": 210
+            "stars": 211
           }
         },
         {
@@ -1124,7 +1124,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13062
+            "stars": 13064
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2024-04-26T09:25:43Z",
             "owner": "vector-of-bool",
             "repo": "pitchfork",
-            "stars": 1245
+            "stars": 1246
           }
         },
         {
@@ -1366,7 +1366,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-01T23:04:56Z",
+            "last_commit": "2026-06-08T04:42:51Z",
             "owner": "scikit-build",
             "repo": "scikit-build",
             "stars": 534
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:37:39.831Z",
+    "last_updated": "2026-06-08T06:53:35.088Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
