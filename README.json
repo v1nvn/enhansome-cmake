@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-10T05:17:31Z",
+            "last_commit": "2026-06-10T11:20:20Z",
             "owner": "conan-io",
             "repo": "conan",
-            "stars": 9400
+            "stars": 9403
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-05-21T15:09:24Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13001
+            "stars": 13005
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-06-10T05:51:40Z",
+            "last_commit": "2026-06-11T00:23:55Z",
             "owner": "microsoft",
             "repo": "vcpkg",
-            "stars": 27144
+            "stars": 27153
           }
         },
         {
@@ -464,7 +464,7 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-06-07T14:06:00Z",
+            "last_commit": "2026-06-10T20:42:50Z",
             "owner": "KDE",
             "repo": "extra-cmake-modules",
             "stars": 153
@@ -545,7 +545,7 @@
             "last_commit": "2025-07-17T11:13:30Z",
             "owner": "robotology",
             "repo": "ycm-cmake-modules",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -918,7 +918,7 @@
             "last_commit": "2018-02-16T04:32:27Z",
             "owner": "taka-no-me",
             "repo": "android-cmake",
-            "stars": 1226
+            "stars": 1227
           }
         },
         {
@@ -1124,7 +1124,7 @@
             "last_commit": "2024-02-28T22:39:37Z",
             "owner": "ttroy50",
             "repo": "cmake-examples",
-            "stars": 13064
+            "stars": 13065
           }
         },
         {
@@ -1163,7 +1163,7 @@
             "last_commit": "2025-08-06T14:03:12Z",
             "owner": "Lectem",
             "repo": "cpp-boilerplate",
-            "stars": 329
+            "stars": 330
           }
         },
         {
@@ -1319,7 +1319,7 @@
             "last_commit": "2026-05-30T18:52:20Z",
             "owner": "TheLartians",
             "repo": "ModernCppStarter",
-            "stars": 5363
+            "stars": 5364
           }
         },
         {
@@ -1512,7 +1512,7 @@
             "last_commit": "2026-06-08T12:07:53Z",
             "owner": "cmakefmt",
             "repo": "cmakefmt",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -1577,7 +1577,7 @@
             "last_commit": "2025-02-11T02:50:57Z",
             "owner": "regen100",
             "repo": "cmake-language-server",
-            "stars": 405
+            "stars": 406
           }
         },
         {
@@ -1626,10 +1626,10 @@
           "repo_info": {
             "archived": false,
             "language": "CMake",
-            "last_commit": "2026-06-08T11:53:26Z",
+            "last_commit": "2026-06-10T15:54:27Z",
             "owner": "HEP-SoC",
             "repo": "SoCMake",
-            "stars": 41
+            "stars": 42
           }
         }
       ],
@@ -1642,7 +1642,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T06:38:39.958Z",
+    "last_updated": "2026-06-11T06:57:25.042Z",
     "original_repository": "onqtam/awesome-cmake",
     "source_repository": "v1nvn/enhansome-cmake",
     "source_repository_description": null,
